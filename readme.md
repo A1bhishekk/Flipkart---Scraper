@@ -1,6 +1,10 @@
-# Flipkart Scraper (E-Commerce Website)
+# Flipkart Scraper (E-Commerce 🛍️ Website)
 
 This is a Python script that scrapes product details from Flipkart.com. It uses the [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) library to parse the HTML of the website and extract the required information.
+
+![Web Scraping ](https://i.ytimg.com/vi/tHz0cTGDQi4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDuNpL34MhpVxiRViHxn4raNk8x-g)
+
+
 
 
 ## Sample data :
@@ -25,7 +29,7 @@ Before running the script, make sure you have the following installed:
 If you haven't already, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/A1bhishekk/Flipkart---Scraper.git
 ```
 
 ### 2. Create and Activate Virtual Environment (optional)
@@ -63,10 +67,17 @@ pip install -r requirements.txt
 ```
 
 ### 4. Run the Script
-
+Run the script using the following command:
 ```bash
 python main.py
 ```
+
+if you are beginner then you can run the script flipkart_scraper.py using the following command:
+```bash
+python flipkart_scraper.py
+```
+
+
 Follow any instructions or prompts provided by the script.
 
 ### 5. Deactivate the Virtual Environment
@@ -80,7 +91,7 @@ deactivate
 
 ## Author :
 
-- [Abhishek Kumar ](https://github.com/yourusername)
+- [Abhishek Kumar ](https://github.com/A1bhishekk)
 
 ## Contributing :
 
