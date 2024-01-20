@@ -8,7 +8,7 @@ This is a Python script that scrapes product details from Flipkart.com. It uses 
 
 
 ## Sample data :
-[Download Sample Data](https://drive.google.com/your-file-link)
+[Download Sample Data](https://docs.google.com/spreadsheets/d/1PnFQPBpUE8uWg6exQHKb29Jv_qnAhpcr_-CHJkQbrJM/edit?usp=sharing)
 
 ## Features :
 
